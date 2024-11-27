@@ -85,48 +85,6 @@ quit
   Exits the engine ASAP
 ```
 
-## Testing 
-
-```
-Finished game 1000 (MayhemAtomic 0.1 vs MayhemAtomic 0.1): 0-1 {White's king exploded}
-Score of MayhemAtomic 0.1 vs MayhemAtomic 0.1: 419 - 420 - 161  [0.499] 1000
-...      MayhemAtomic 0.1 playing White: 228 - 187 - 85  [0.541] 500
-...      MayhemAtomic 0.1 playing Black: 191 - 233 - 76  [0.458] 500
-...      White vs Black: 461 - 378 - 161  [0.541] 1000
-Elo difference: -0.3 +/- 19.7, LOS: 48.6 %, DrawRatio: 16.1 %
-SPRT: llr 0 (0.0%), lbound -inf, ubound inf
-
-Player: MayhemAtomic 0.1
-   "Draw by 3-fold repetition": 141
-   "Draw by fifty moves rule": 11
-   "Draw by stalemate": 9
-   "Loss: Black mates": 87
-   "Loss: Black's king exploded": 132
-   "Loss: White mates": 101
-   "Loss: White's king exploded": 100
-   "Win: Black mates": 80
-   "Win: Black resigns": 1
-   "Win: Black's king exploded": 129
-   "Win: White mates": 98
-   "Win: White resigns": 1
-   "Win: White's king exploded": 110
-Player: MayhemAtomic 0.1
-   "Draw by 3-fold repetition": 141
-   "Draw by fifty moves rule": 11
-   "Draw by stalemate": 9
-   "Loss: Black mates": 80
-   "Loss: Black resigns": 1
-   "Loss: Black's king exploded": 129
-   "Loss: White mates": 98
-   "Loss: White resigns": 1
-   "Loss: White's king exploded": 110
-   "Win: Black mates": 87
-   "Win: Black's king exploded": 132
-   "Win: White mates": 101
-   "Win: White's king exploded": 100
-Finished match
-```
-
 ## Tests
 
 ```
