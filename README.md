@@ -1,9 +1,8 @@
+![logo](https://github.com/user-attachments/assets/b31bb923-06ef-4bb1-89ce-1f54982766f3)
+
 # MayhemAtomic
 
 Linux Xboard Atomic Chess Engine.
-
-![logo](https://github.com/user-attachments/assets/b31bb923-06ef-4bb1-89ce-1f54982766f3)
-
 
 ## Supported Commands
 
